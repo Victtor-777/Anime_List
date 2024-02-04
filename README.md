@@ -2,7 +2,7 @@
   <img src="./public/preview.png" width="100%" />
 </p>
 
-# 🖼 Anime Infinit List
+# 🐱‍🏍 Anime Infinit List
 Projeto de um site de Animes com uma lista infinita animada.
 
 - Veja o projeto: [Live Preview](https://victtor-anime-list.vercel.app/)
@@ -19,6 +19,8 @@ Projeto de um site de Animes com uma lista infinita animada.
 - [HTML](https://www.w3schools.com/html/)
 - [CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
 - [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
+- [React](https://react.dev/)
+- [Next.js](https://nextjs.org/)
 
 ## 📝 Considerações
 
