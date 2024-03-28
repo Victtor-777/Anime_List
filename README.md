@@ -24,4 +24,4 @@ Projeto de um site de Animes com uma lista infinita animada.
 
 ## 📝 Considerações
 
-Projeto do canal do Youtube JavaScript Mastery, eu segui esse projeto por curiosidade em como usar o Next.js e outros assuntos, e porque eu gostei do projeto, mas sendo sincero eu praticamente não fiz nada, deixei ele aqui porque no futuro desejo fazer um projeto melhor que esse com várias páginas, uma para cada anime e outras funcionalidades;
+Projeto do canal do Youtube JavaScript Mastery, eu segui esse projeto para aprrender a usar o Next.js e outros assuntos, e porque eu gostei do projeto.
