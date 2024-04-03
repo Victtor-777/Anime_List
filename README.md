@@ -18,10 +18,10 @@ Projeto de um site de Animes com uma lista infinita animada.
 
 - [HTML](https://www.w3schools.com/html/)
 - [CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
-- [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
+- [TypeScript](https://www.typescriptlang.org/)
 - [React](https://react.dev/)
 - [Next.js](https://nextjs.org/)
 
 ## 📝 Considerações
 
-Projeto do canal do Youtube JavaScript Mastery, eu segui esse projeto para aprrender a usar o Next.js e outros assuntos, e porque eu gostei do projeto.
+Projeto do canal do Youtube JavaScript Mastery, eu segui esse projeto para práticar o Next.js e outros assuntos, e porque eu gostei do projeto.
